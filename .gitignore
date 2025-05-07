@@ -1,0 +1,12 @@
+/.vscode
+env
+dist
+db.sqlite3
+
+README.md
+pyprojct.toml
+setup.py
+build
+__pycache__
+migrations
+modar_django_activity_logger_plus.egg-info
